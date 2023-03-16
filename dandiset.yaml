@@ -29,9 +29,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 129651860959
-  numberOfFiles: 12
-  numberOfSubjects: 11
+  numberOfBytes: 283996002941
+  numberOfFiles: 20
+  numberOfSubjects: 19
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -135,7 +135,7 @@ contributor:
   schemaKey: Organization
   url: https://alleninstitute.org/
 dateCreated: '2023-03-16T16:02:14.771820+00:00'
-datePublished: '2023-03-16T16:17:50.323789+00:00'
+datePublished: '2023-03-16T18:31:56.809950+00:00'
 description: 'In this set of experiments, we recorded neural signals using an electroencephalography
   (EEG) array and Neuropixels probes while directly electrically stimulating the cortex
   in awake and anesthetized head-fixed mice. Details of the experiments can be found
@@ -181,13 +181,13 @@ name: Simultaneous electroencephalography, extracellular electrophysiology, and 
   electrical stimulation in head-fixed mice (awake and anesthetized)
 protocol: []
 publishedBy:
-  endDate: '2023-03-16T16:17:50.323789+00:00'
-  id: urn:uuid:6f8619fa-7a34-4b98-aedc-8d9a8d0961ce
+  endDate: '2023-03-16T18:31:56.809950+00:00'
+  id: urn:uuid:a9a72334-c56e-400d-84d5-31d0956ebe62
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-03-16T16:17:50.323789+00:00'
+  startDate: '2023-03-16T18:31:56.809950+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:7dc38349-0557-4f5c-bc97-2da71ea4de03
+  - id: urn:uuid:397e55f4-b4af-4e3d-a174-24e87f035db2
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
