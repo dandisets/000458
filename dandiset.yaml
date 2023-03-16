@@ -19,15 +19,19 @@ assetsSummary:
   measurementTechnique:
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
+  - name: signal filtering technique
+    schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3485647530
-  numberOfFiles: 6
-  numberOfSubjects: 6
+  numberOfBytes: 129651860959
+  numberOfFiles: 12
+  numberOfSubjects: 11
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -35,8 +39,10 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - BehavioralTimeSeries
+  - Units
   - ElectricalSeries
   - ElectrodeGroup
+  - LFP
   - ProcessingModule
 citation: Claar, Leslie D; Rembado, Irene; Kuyat, Jacqulyn R; Russo, Simone; Marks,
   Lydia C; Olsen, Shawn R; Koch, Christof (2023) Simultaneous electroencephalography,
