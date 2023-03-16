@@ -47,7 +47,7 @@ assetsSummary:
 citation: Claar, Leslie D; Rembado, Irene; Kuyat, Jacqulyn R; Russo, Simone; Marks,
   Lydia C; Olsen, Shawn R; Koch, Christof (2023) Simultaneous electroencephalography,
   extracellular electrophysiology, and cortical electrical stimulation in head-fixed
-  mice (awake and anesthetized) (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  mice (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000458/draft
 contributor:
 - affiliation:
   - identifier: https://ror.org/03cpe7c52
@@ -135,7 +135,6 @@ contributor:
   schemaKey: Organization
   url: https://alleninstitute.org/
 dateCreated: '2023-03-16T16:02:14.771820+00:00'
-datePublished: '2023-03-16T18:31:56.809950+00:00'
 description: 'In this set of experiments, we recorded neural signals using an electroencephalography
   (EEG) array and Neuropixels probes while directly electrically stimulating the cortex
   in awake and anesthetized head-fixed mice. Details of the experiments can be found
@@ -162,7 +161,6 @@ description: 'In this set of experiments, we recorded neural signals using an el
   a recovery epoch. Some subjects received visual stimulation trials (visual stimuli
   presented on a screen in the subject’s right field of view) interleaved with the
   electrical stimulation trials.'
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000458/draft
 identifier: DANDI:000458
@@ -178,20 +176,8 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000458/versions/draft/assets/
 name: Simultaneous electroencephalography, extracellular electrophysiology, and cortical
-  electrical stimulation in head-fixed mice (awake and anesthetized)
+  electrical stimulation in head-fixed mice
 protocol: []
-publishedBy:
-  endDate: '2023-03-16T18:31:56.809950+00:00'
-  id: urn:uuid:a9a72334-c56e-400d-84d5-31d0956ebe62
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-03-16T18:31:56.809950+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:397e55f4-b4af-4e3d-a174-24e87f035db2
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource:
 - identifier: Reviewed preprint (eLife)
   name: Cortico-thalamo-cortical interactions modulate electrically evoked EEG responses
