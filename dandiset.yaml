@@ -47,7 +47,7 @@ assetsSummary:
 citation: Claar, Leslie D; Rembado, Irene; Kuyat, Jacqulyn R; Russo, Simone; Marks,
   Lydia C; Olsen, Shawn R; Koch, Christof (2023) Simultaneous electroencephalography,
   extracellular electrophysiology, and cortical electrical stimulation in head-fixed
-  mice (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000458/draft
+  mice (Version 0.230317.0039) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000458/0.230317.0039
 contributor:
 - affiliation:
   - identifier: https://ror.org/03cpe7c52
@@ -163,7 +163,7 @@ description: 'In this set of experiments, we recorded neural signals using an el
   presented on a screen in the subject’s right field of view) interleaved with the
   electrical stimulation trials.'
 ethicsApproval: []
-id: DANDI:000458/draft
+id: DANDI:000458/0.230317.0039
 identifier: DANDI:000458
 keywords:
 - EEG
@@ -175,7 +175,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000458/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000458/0.230317.0039/assets.yaml
 name: Simultaneous electroencephalography, extracellular electrophysiology, and cortical
   electrical stimulation in head-fixed mice
 protocol: []
@@ -210,6 +210,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000458/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000458/0.230317.0039
+version: 0.230317.0039
 wasGeneratedBy: []
