@@ -135,6 +135,7 @@ contributor:
   schemaKey: Organization
   url: https://alleninstitute.org/
 dateCreated: '2023-03-16T16:02:14.771820+00:00'
+datePublished: '2023-03-17T00:39:49.682458+00:00'
 description: 'In this set of experiments, we recorded neural signals using an electroencephalography
   (EEG) array and Neuropixels probes while directly electrically stimulating the cortex
   in awake and anesthetized head-fixed mice. Details of the experiments can be found
@@ -178,6 +179,18 @@ manifestLocation:
 name: Simultaneous electroencephalography, extracellular electrophysiology, and cortical
   electrical stimulation in head-fixed mice
 protocol: []
+publishedBy:
+  endDate: '2023-03-17T00:39:49.682458+00:00'
+  id: urn:uuid:9365f375-532b-46e6-92bb-b6587df796f0
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-03-17T00:39:49.682458+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:67d2b19b-0f63-4846-891c-894c7cde6086
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: Reviewed preprint (eLife)
   name: Cortico-thalamo-cortical interactions modulate electrically evoked EEG responses
